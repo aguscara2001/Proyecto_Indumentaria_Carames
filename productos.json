@@ -1,0 +1,22 @@
+[
+    {"categoria": "Mujer", "nombre": "Jordan 1 Barely Rose", "precio": 3000, "id": 1, "imagen":"Galeria/jordan 4 union 2 (23 pct).jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 4 Union LA", "precio": 3000, "id": 2, "imagen": "Galeria/jordan 4 union 2 (23 pct).jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Shadow", "precio": 3000, "id": 3, "imagen": "Galeria/Shadow (16 pct).jpg"},
+    {"categoria": "Hombre", "nombre": "jordan 1 Dark Mocha", "precio": 3000, "id": 4, "imagen": "Galeria/Dark Mocha (16 pct).jpg"},
+    {"categoria": "Mujer", "nombre": "Jordan 4 Off-White", "precio": 7000, "id": 5, "imagen": "Galeria/jordan 4 off white 1 (25 pct).jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 4 Lightning", "precio": 7000, "id": 6, "imagen": "Galeria/Air-Jordan-4-Retro-Lightning-2021-PS-Product (18 pct).jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Off-White", "precio": 4000, "id": 7, "imagen": "Galeria/air-jordan-1.png"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 8, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 9, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 10, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 11, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 12, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 13, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 14, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 15, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 16, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 17, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 18, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 19, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"},
+    {"categoria": "Hombre", "nombre": "Jordan 1 Traviss Scott", "precio":5000 , "id": 20, "imagen": "Galeria/Jordan-1-Retro-High-Travis-Scott.jpg"}
+]
