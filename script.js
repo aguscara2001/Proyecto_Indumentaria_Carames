@@ -1,5 +1,5 @@
 let divProductos = document.getElementById('Productos')
-fetch('/productos.json')
+fetch('Proyecto_Indumentaria_Agustin_Carames/productos.json')
     .then( (res) => res.json())
     .then( productos =>{
         productos.forEach(producto => {
